@@ -1,3 +1,4 @@
 .env
 .vscode
 chrome_profile/
+*.csv
